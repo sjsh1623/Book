@@ -38,3 +38,6 @@ Google Calendar 연동은 생각보다 어렵지 않다고 생각이 든다. Goo
 거기에 Helper을 사용하여 API 통신을 한다면 OAuth는 물론 Google Calendar도 어렵지 않게 연동 할 수 있다고 생각든다. 
 중간 중간 어려움이 있었던 부분 좀 자세히 찾아봐야 알 수 있는 부분을 잘 정리 하고 어떤 방법을 사용하여 작성하였는지 기록하기 위한 목적으로 Book을 작성한다.
 
+아래의 공식문서를 시작으로 하나하나 다 읽어보면 좋을것 같다.
+> https://developers.google.com/calendar/api/quickstart/java
+
