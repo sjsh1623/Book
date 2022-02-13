@@ -3,6 +3,7 @@
 > Language : Java \
 > Target : Google OAuth2를 사용하여 캘린더를 생성하여 해당 캘린더에 이벤트 생성 \
 > Official Document : https://developers.google.com/calendar/api
+> Additional : 원래 Javascript로 작업해서 완료하였지만 회사 서버 언어가 Java 자체 Framework를 사용하고 있어 모바일을 고려했을때 서버작업을 하는게 좋다고 판단해 재 작업을 했다. 
 
 ### Basic knowledge for Google Calendar?
 - Google Calendar은 크게 Calendar 와 Event로 나뉜다. Calendar는 Event의 상위 개념으로 많은 Event를 묶어두는 개념이다.
