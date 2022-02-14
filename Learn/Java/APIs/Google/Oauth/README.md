@@ -5,6 +5,8 @@
 
 <img src="https://developers.google.com/identity/protocols/oauth2/images/flows/authorization-code.png" title="Google Token flow"/>
 
+> Google OAUTH2 Flow 요약 \
+> 여기서 JWT Google Authroization의 하위 개념이며 Google Authorization code (token) 발급, 해당 토큰일 사용하여 Token을 요청한다. (한마디로 카카오 API라던지 ZOOM API라던지 동작방식은 비슷하다)
 1. Request token
    > 구글에 토큰 발급을 요청한다.
 2. Authorization code
