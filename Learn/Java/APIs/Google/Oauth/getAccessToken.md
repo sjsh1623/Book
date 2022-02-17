@@ -8,7 +8,7 @@
 > https://www.oauth.com/oauth2-servers/access-tokens/#:~:text=Access%20tokens%20are%20the%20thing,parts%20of%20a%20user's%20data.&text=Access%20tokens%20must%20be%20kept%20confidential%20in%20transit%20and%20in%20storage.
 
 ### How to get Google Access Token
-아래는 Token발급을 위한 URL을 생성하는 전체 과정이다 Java로 작성되었다. (Google에서 제공하는 SDK를 사용하였다)
+아래는 Google Authentication Token (JWT X)발급을 위한 URL을 생성하는 전체 과정이다 Java로 작성되었다. (Google에서 제공하는 SDK를 사용하였다)
 ```java
 private static final String APPLICATION_NAME = "yourApplicationName";
 private static final JsonFactory JSON_FACTORY = GsonFactory.getDefaultInstance();
@@ -50,4 +50,27 @@ GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(JSON_FACTORY, new I
 > 해당 공식문서를 확인하여 사용방법을 참고하면 좋을것 같다 \
 > https://googleapis.dev/java/google-api-client/latest/com/google/api/client/googleapis/auth/oauth2/GoogleAuthorizationCodeRequestUrl.html
 
+## How to get JWT Token from Google
+- Google 에서 Access Token을 발급 받았다면 이제 JWT Token을 발급 받을 차례이다. 
+- 아래의 코드는 Google Access Token을 사용하여 JWT Token을 발급 받는 Java 코드이다. (위와 동일하게 Google에서 제공하는 SDK를 사용하여 발급 받았다)
+```java
+        final NetHttpTransport HTTP_TRANSPORT = GoogleNetHttpTransport.newTrustedTransport();
+        InputStream in = GoogleCalendar.class.getResourceAsStream("./credentials.json");
+        if (in == null) {
+            throw new FileNotFoundException("Resource not found: ./credentials.json");
+        } else {
+            GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(JSON_FACTORY, new InputStreamReader(in));
+            GoogleTokenResponse response = new GoogleAuthorizationCodeTokenRequest(
+                    HTTP_TRANSPORT,
+                    JSON_FACTORY,
+                    clientSecrets.getDetails().getClientId(),
+                    clientSecrets.getDetails().getClientSecret(),
+                    code, // Google Access Token은 여기에 위치한다
+                    "Your callback URL").execute();
+        }
+    }
+```
+- Google의 SDK에서 제공하는 GoogleTokenResponse 인스턴스를 활용하여 토큰을 발급받는다.
+- GoogleTokenResponse는 Access Token , Refresh Token을 return하며 이외 다른 여러가지 정보를 return 한다. 지금 가장 필요한건 Access Token과 Refresh Token이기 때문에 다른 설명은 생략하겠다.
+- 나는 모든 토큰 정보를 Dataase에 저장하여 관리하였다.
 
