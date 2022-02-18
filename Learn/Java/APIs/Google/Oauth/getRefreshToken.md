@@ -23,7 +23,12 @@
             throw new FileNotFoundException("Resource not found: ./credentials.json");
         } else {
             GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(JSON_FACTORY, new InputStreamReader(in));
-            GoogleCredential refreshTokenCredential = new GoogleCredential.Builder().setJsonFactory(JSON_FACTORY).setTransport(HTTP_TRANSPORT).setClientSecrets(clientSecrets).build().setRefreshToken(refreshToken);
+            GoogleCredential refreshTokenCredential = new GoogleCredential.Builder()
+                                                            .setJsonFactory(JSON_FACTORY)
+                                                            .setTransport(HTTP_TRANSPORT)
+                                                            .setClientSecrets(clientSecrets)
+                                                            .setRefreshToken(refreshToken) // 리프레시 토큰을 set 하여 Access Token과 Refresh Token을 발급받는다.
+                                                            .build();
             refreshTokenCredential.refreshToken();
             return refreshTokenCredential;
         }
