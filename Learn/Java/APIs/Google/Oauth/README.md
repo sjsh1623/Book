@@ -7,12 +7,12 @@
 
 > Google OAUTH2 Flow 요약 \
 > 여기서 JWT Google Authroization의 하위 개념이며 Google Authorization code (token) 발급, 해당 토큰일 사용하여 Token을 요청한다. (한마디로 카카오 API라던지 ZOOM API라던지 동작방식은 비슷하다)
-1. Request token
+1. Request Authroization token
    > 구글에 토큰 발급을 요청한다.
-2. Authorization code
+2. Authorization token
     > 구글에 Authorization code를 발급해준다.
 3. Exchange code for token
-   > Authroization code를 사용하여 Token 정보를 요청한다.
+   > Authroization token를 사용하여 Token 정보를 요청한다.
 4. Token response
    > Token 정보를 발급해준다. (어떻게 요청하냐에 따라 JWT, Refresh token 발급 여부를 요청할수 있다.)
 5. User token to call Google API
