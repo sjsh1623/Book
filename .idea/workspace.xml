@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="폴더 구조 변경 및 스터디 한 노트 업데이트" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectId" id="238tOtjjWjb8jdBBbkP4aJf8Nx4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Image" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Image" />
+      <recent name="$PROJECT_DIR$/Learn/Java/APIs/Google/Oauth" />
+      <recent name="$PROJECT_DIR$/Learn/Java/APIs/Google/Google_Calendar" />
+      <recent name="$PROJECT_DIR$/PersonalProject/Howdy (Share schedules)" />
+      <recent name="$PROJECT_DIR$/Learn" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/친절한 SQL 튜닝" />
+      <recent name="$PROJECT_DIR$/Sources" />
+      <recent name="$PROJECT_DIR$/Image" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="" />
+      <created>1641127513584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641127513584</updated>
+      <workItem from="1641127515495" duration="1097000" />
+      <workItem from="1641218868359" duration="629000" />
+      <workItem from="1641305204179" duration="422000" />
+      <workItem from="1641477511271" duration="3518000" />
+      <workItem from="1642332904317" duration="1342000" />
+      <workItem from="1642597206468" duration="1534000" />
+      <workItem from="1643810295442" duration="945000" />
+      <workItem from="1643893679597" duration="2996000" />
+      <workItem from="1643937810378" duration="18000" />
+      <workItem from="1644239004012" duration="3842000" />
+      <workItem from="1644760260950" duration="4305000" />
+      <workItem from="1644842942292" duration="3633000" />
+      <workItem from="1645531734010" duration="1201000" />
+      <workItem from="1645713162102" duration="22000" />
+      <workItem from="1651757998172" duration="357000" />
+      <workItem from="1652011611216" duration="641000" />
+      <workItem from="1652104613829" duration="116000" />
+      <workItem from="1652188998301" duration="87000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create project for personal documentation&#10;개인 기록을 위한 프로젝트 생성&#10;기본적인 폴더링 구조 생성">
+      <created>1641127964142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641127964142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="타임존 테스트 방법 markdown 작성">
+      <created>1641305621372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641305621372</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day.js read me 작성">
+      <created>1641480402284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641480402284</updated>
+    </task>
+    <task id="LOCAL-00004" summary="await / async 작성중">
+      <created>1642333115522</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642333115522</updated>
+    </task>
+    <task id="LOCAL-00005" summary="await / async 작성중">
+      <created>1642598654861</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642598654861</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Google API 연동에 대한 Book">
+      <created>1643811236763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643811236763</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Google API 연동에 대한 Book">
+      <created>1643895353137</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643895353137</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Google API 연동에 대한 Book">
+      <created>1644242108526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644242108526</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Google API 연동에 대한 Book 링크 추가">
+      <created>1644242532570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644242532570</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Google API 연동에 대한 Book 링크 추가">
+      <created>1644760708039</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644760708039</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Google OAUTH2 작성중">
+      <created>1644762448691</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644762448691</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Google API 연동에 대한 Book 링크 추가">
+      <created>1644763972218</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1644763972218</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Google OAuth2 Java 사용 방법">
+      <created>1644846577957</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1644846577957</updated>
+    </task>
+    <task id="LOCAL-00014" summary="RDS 이미 업데이트">
+      <created>1645532092069</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645532092069</updated>
+    </task>
+    <task id="LOCAL-00015" summary="RDS 배운것 업데이트">
+      <created>1645532771170</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1645532771170</updated>
+    </task>
+    <task id="LOCAL-00016" summary="폴더 구조 변경 및 스터디 한 노트 업데이트">
+      <created>1651758337772</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651758337772</updated>
+    </task>
+    <task id="LOCAL-00017" summary="1.3 데이터 저장 구조 및 I/O 마무리">
+      <created>1652011650776</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652011650776</updated>
+    </task>
+    <task id="LOCAL-00018" summary="폴더 구조 변경 및 스터디 한 노트 업데이트">
+      <created>1652104725053</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652104725053</updated>
+    </task>
+    <task id="LOCAL-00019" summary="폴더 구조 변경 및 스터디 한 노트 업데이트">
+      <created>1652189079656</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652189079656</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create project for personal documentation&#10;개인 기록을 위한 프로젝트 생성&#10;기본적인 폴더링 구조 생성" />
+    <MESSAGE value="타임존 테스트 방법 markdown 작성" />
+    <MESSAGE value="Day.js read me 작성" />
+    <MESSAGE value="await / async 작성중" />
+    <MESSAGE value="Google API 연동에 대한 Book" />
+    <MESSAGE value="Google OAUTH2 작성중" />
+    <MESSAGE value="Google API 연동에 대한 Book 링크 추가" />
+    <MESSAGE value="Google OAuth2 Java 사용 방법" />
+    <MESSAGE value="RDS 이미 업데이트" />
+    <MESSAGE value="RDS 배운것 업데이트" />
+    <MESSAGE value="1.3 데이터 저장 구조 및 I/O 마무리" />
+    <MESSAGE value="폴더 구조 변경 및 스터디 한 노트 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="폴더 구조 변경 및 스터디 한 노트 업데이트" />
+  </component>
+</project>
