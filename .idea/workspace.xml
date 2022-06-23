@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="폴더 구조 변경 및 스터디 한 노트 업데이트" />
+    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="친절한 SQL Notes 4개 업데이트 및 추가">
+      <change afterPath="$PROJECT_DIR$/Sources/Image/Postgre_Structure(1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Image/Postgre_Structure(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Image/Postgre_Structure(2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Image/Postgre_Structure(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Image/Postgre_Structure(3).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Image/Postgre_Structure.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Image/Postgre_Structure3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sources/Image/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/친절한 SQL 튜닝/3 2 부분 범위 처리 활용 .md" beforeDir="false" afterPath="$PROJECT_DIR$/친절한 SQL 튜닝/3.2 부분 범위 처리 활용 .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/친절한 SQL 튜닝/3 3 인덱스 스캔 효율화 .md" beforeDir="false" afterPath="$PROJECT_DIR$/친절한 SQL 튜닝/3.3 인덱스 스캔 효율화 .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/친절한 SQL 튜닝/3 4 인덱스 설계 .md" beforeDir="false" afterPath="$PROJECT_DIR$/친절한 SQL 튜닝/3.4 인덱스 설계 .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/친절한 SQL 튜닝/4 1 NL 조인 .md" beforeDir="false" afterPath="$PROJECT_DIR$/친절한 SQL 튜닝/4.1 NL 조인 .md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +55,23 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/친절한 SQL 튜닝" />
+      <recent name="$PROJECT_DIR$/Sources/Image" />
       <recent name="$PROJECT_DIR$/Sources" />
       <recent name="$PROJECT_DIR$/Image" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,6 +99,8 @@
       <workItem from="1652011611216" duration="641000" />
       <workItem from="1652104613829" duration="116000" />
       <workItem from="1652188998301" duration="87000" />
+      <workItem from="1653789425159" duration="96000" />
+      <workItem from="1655994150727" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="Create project for personal documentation&#10;개인 기록을 위한 프로젝트 생성&#10;기본적인 폴더링 구조 생성">
       <created>1641127964142</created>
@@ -205,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652189079656</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="친절한 SQL Notes 4개 업데이트 및 추가">
+      <created>1653789516159</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1653789516159</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +273,7 @@
     <MESSAGE value="RDS 배운것 업데이트" />
     <MESSAGE value="1.3 데이터 저장 구조 및 I/O 마무리" />
     <MESSAGE value="폴더 구조 변경 및 스터디 한 노트 업데이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="폴더 구조 변경 및 스터디 한 노트 업데이트" />
+    <MESSAGE value="친절한 SQL Notes 4개 업데이트 및 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="친절한 SQL Notes 4개 업데이트 및 추가" />
   </component>
 </project>
