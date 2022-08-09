@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="친절한 SQL Notes 90% 업데이트&#10;TO_DO 블로그 업데이트 및 정리">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="친절한 SQL 스터디 노트 업데이트" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,15 +47,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,6 +87,7 @@
       <workItem from="1652188998301" duration="87000" />
       <workItem from="1653789425159" duration="96000" />
       <workItem from="1655994150727" duration="1458000" />
+      <workItem from="1656728080751" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="Create project for personal documentation&#10;개인 기록을 위한 프로젝트 생성&#10;기본적인 폴더링 구조 생성">
       <created>1641127964142</created>
@@ -246,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655994677650</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="친절한 SQL 스터디 노트 업데이트">
+      <created>1656728244671</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1656728244671</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +283,7 @@
     <MESSAGE value="폴더 구조 변경 및 스터디 한 노트 업데이트" />
     <MESSAGE value="친절한 SQL Notes 4개 업데이트 및 추가" />
     <MESSAGE value="친절한 SQL Notes 90% 업데이트&#10;TO_DO 블로그 업데이트 및 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="친절한 SQL Notes 90% 업데이트&#10;TO_DO 블로그 업데이트 및 정리" />
+    <MESSAGE value="친절한 SQL 스터디 노트 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="친절한 SQL 스터디 노트 업데이트" />
   </component>
 </project>
