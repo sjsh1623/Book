@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="친절한 SQL 스터디 노트 업데이트" />
+    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="Add Image for AWS book" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +88,7 @@
       <workItem from="1653789425159" duration="96000" />
       <workItem from="1655994150727" duration="1458000" />
       <workItem from="1656728080751" duration="765000" />
+      <workItem from="1660045379955" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="Create project for personal documentation&#10;개인 기록을 위한 프로젝트 생성&#10;기본적인 폴더링 구조 생성">
       <created>1641127964142</created>
@@ -250,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656728244671</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add Image for AWS book">
+      <created>1660045649825</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1660045649825</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +292,7 @@
     <MESSAGE value="친절한 SQL Notes 4개 업데이트 및 추가" />
     <MESSAGE value="친절한 SQL Notes 90% 업데이트&#10;TO_DO 블로그 업데이트 및 정리" />
     <MESSAGE value="친절한 SQL 스터디 노트 업데이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="친절한 SQL 스터디 노트 업데이트" />
+    <MESSAGE value="Add Image for AWS book" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Image for AWS book" />
   </component>
 </project>
