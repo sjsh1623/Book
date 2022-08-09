@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="Add Image for AWS book" />
+    <list default="true" id="398f1120-0ed0-42c9-8044-2169125b1f4c" name="Default Changelist" comment="Add Image for AWS book">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/따라하며 배우는 AWS 네트워크 입문/02.VPC 기초.md" beforeDir="false" afterPath="$PROJECT_DIR$/따라하며 배우는 AWS 네트워크 입문/02.VPC 기초.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,24 +43,12 @@
       <recent name="$PROJECT_DIR$/Learn" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/친절한 SQL 튜닝" />
+      <recent name="$PROJECT_DIR$/따라하며 배우는 AWS 네트워크 입문" />
       <recent name="$PROJECT_DIR$/Sources/Image" />
+      <recent name="$PROJECT_DIR$/친절한 SQL 튜닝" />
       <recent name="$PROJECT_DIR$/Sources" />
       <recent name="$PROJECT_DIR$/Image" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,7 +79,8 @@
       <workItem from="1653789425159" duration="96000" />
       <workItem from="1655994150727" duration="1458000" />
       <workItem from="1656728080751" duration="765000" />
-      <workItem from="1660045379955" duration="304000" />
+      <workItem from="1660045379955" duration="458000" />
+      <workItem from="1660046457042" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="Create project for personal documentation&#10;개인 기록을 위한 프로젝트 생성&#10;기본적인 폴더링 구조 생성">
       <created>1641127964142</created>
@@ -258,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660045649825</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add Image for AWS book">
+      <created>1660045748850</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1660045748850</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
